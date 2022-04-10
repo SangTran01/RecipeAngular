@@ -10,7 +10,7 @@ export class RecipeListComponent implements OnInit {
   recipes: Recipe[] = [
     new Recipe(
       'Fried Rice',
-      'R',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nunc eros, suscipit quis vulputate vel, eleifend ut tellus. Etiam ipsum ante',
       'https://therecipecritic.com/wp-content/uploads/2019/07/easy_fried_rice-1-500x500.jpg'
     ),
   ];
